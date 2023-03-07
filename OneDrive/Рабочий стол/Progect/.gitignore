@@ -3,6 +3,7 @@
 *.app
 .idea
 node_modules
+
 #compiling files
 public/assets
 public/mix-manifest.json
